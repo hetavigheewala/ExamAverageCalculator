@@ -1,1 +1,3 @@
 # ExamAverageCalculator
+
+This Python code defines a function called "totalPrice" that calculates and returns the average exam score for a given number of students. Within the "totalPrice" function, it prompts the user to input exam scores for each student, adds up the scores, and calculates the average score. The "main" function is then defined to calculate and print the average exam score for a predefined number of students (5 in this case) using the "totalPrice" function. When executed, the code asks for exam scores, calculates the average, and displays the result, providing an efficient way to compute and present average scores for a group of students.
